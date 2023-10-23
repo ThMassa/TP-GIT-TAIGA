@@ -1,1 +1,2 @@
+Hugo HOFMANN
 Théo MASSA
