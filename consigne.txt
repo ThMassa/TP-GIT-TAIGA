@@ -1,0 +1,2 @@
+4. Intégrer votre branche devel à votre branche main (qui devra être à jour vis à vis du répertoire upstream)
+5. Une fois les conflits résolus, faire une Pull-request
