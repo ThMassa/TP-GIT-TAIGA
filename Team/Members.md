@@ -1,2 +1,3 @@
-**Hugo HOFMANN
-Théo MASSA**
+**Hugo HOFMANN**
+
+***Git Master* Théo MASSA**
